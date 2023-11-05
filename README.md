@@ -1,4 +1,4 @@
-# Welcome to BlockXpress 👋
+# Welcome to BlockXpress 🔹
 
 The future of blockchain-based e-commerce, where you can shop with crypto for digital goods & products.
 

@@ -23,7 +23,7 @@ Find out more about BlockXpress and join our community:
 
 - **Website**: [blockxpress.io](https://blockxpress.io/) 🌐
 
-- **Telegram**: [Join us at Telegram:](https://t.me/BlockXpressio) 🚀
+- **Telegram**: [Join us at Telegram](https://t.me/BlockXpressio) 🚀
 
 - **Twitter**: [Follow us on Twitter](https://twitter.com/blockxpress) 🐦
 
